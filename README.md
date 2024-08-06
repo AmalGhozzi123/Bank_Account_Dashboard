@@ -1,8 +1,8 @@
-📊 **Bank Account Management Application**
+## 📊 Bank Account Management Application
 
 Welcome to the Bank Account Management Application! This web app allows authorized personnel to manage bank accounts efficiently. The application includes functionalities for account management and administrative tasks. Below is an overview of the main features and technologies used.
 
-🌟 **Key Features:**
+## 🌟 Key Features:
 
 **User Login:**
 - Log in with your username and password to access the application. 🔒
@@ -20,7 +20,7 @@ Welcome to the Bank Account Management Application! This web app allows authoriz
 **Currency Conversion:**
 - Convert account balances to dinar and display the results in a modal dialog. 💵
 
-🛠️ **Technologies Used:**
+## 🛠️ Technologies Used:
 
 **Frontend:**
 - HTML & CSS for page structure and styling. 🖋️
@@ -33,5 +33,8 @@ Welcome to the Bank Account Management Application! This web app allows authoriz
 **Database:**
 - MySQL for storing account information. 🗄️
 
-🎯 **Project Goal:**
+## 🎯 Project Goal:
 The aim of this project is to provide a user-friendly interface for authorized personnel to manage bank accounts, perform CRUD operations, handle searches, and facilitate real-time currency conversions. The focus is on usability and operational security. 🚀
+
+## 🧩 Additional Information
+Feel free to modify and extend this project to suit your needs. If you encounter any issues or need further assistance, you can contact me at amalghozzi@outlook.com.
